@@ -13,7 +13,7 @@ Practical classes of the Advanced Digital Electronics Lab course, with the Renes
 * Arquitetura ARM e o SK-S7G2
 * Guia 1 - e² Studio e Entradas e saídas
 * Guia 2 - Interrupções externas
-* Guia 3 - Timers e PWM
+* Guia 3 - Timers, ADC e DAC
 * Guia 4 - Threads, semáforos e depuração
 * Guia 5 - Conversores ADC e DAC
 * Apresentação das propostas de trabalho
